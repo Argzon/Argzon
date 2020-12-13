@@ -25,3 +25,7 @@ More about me:
 - 📫 How to reach me: [Linkedin Profile](https://linkedin.com/in/haziraj)
 - 😄 Pronouns: Argzon
 - ⚡ Fun fact: More than coffee, I like music
+
+![Argzon's github stats](https://github-readme-stats.vercel.app/api?username=Argzon&count_private=true&show_icons=true)
+
+
