@@ -7,7 +7,7 @@ Inspired by web technologies, **I am always creating new**  [web designs](https:
 
 Currently, I'm working at **[Nelta](https://nelta.de/)**. 
 
-Also, I'm currently working on a new framework for  **[Nelta](https://www.npmjs.com/package/nelta-framework)**, and a Design System for **[Nelta](http://design.nelta.de)** also.
+Also, I'm currently learning full-stack JavaScript at  **[Treehouse](https://www.teamtreehouse.com)**.
 
 
 ### ⚒&nbsp;&nbsp;&nbsp;My Development Toolbelt
@@ -17,10 +17,10 @@ Also, I'm currently working on a new framework for  **[Nelta](https://www.npmjs.
 
 More about me:
 
-- 🔭 I’m currently working on Design System for Nelta
-- 🌱 I’m currently learning TailwindCSS
+- 🔭 I’m currently working on e-Commerce Site for Nelta's client
+- 🌱 I’m currently learning Full-Stack JavaScript
 - 👯 I’m looking to collaborate on UI Projects
-- 🤔 I’m looking for help with GitBook
+- 🤔 I’m looking for help with JavaScript Databases
 - 💬 Ask me about Web Design
 - 📫 How to reach me: [Linkedin Profile](https://linkedin.com/in/haziraj)
 - 😄 Pronouns: Argzon
