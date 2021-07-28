@@ -1,13 +1,13 @@
 ### Hi there 👋
 
 
-I'm **Argzon Haziraj**, a Front-End Developer and UI Designer who lives in Peje, Kosovo.
+I'm **Argzon Haziraj**, a Front-End Engineer and UI Designer who lives in Peje, Kosovo.
 
 Inspired by web technologies, **I am always creating new**  [web designs](https://behance.net/haziraj), [envato projects](https://codecanyon.net/user/dotifyio), [fun projects](https://github.com/argzon), and [connections](https://linkedin.com/in/haziraj).
 
 Currently, I'm working at **[Nelta](https://nelta.de/)**. 
 
-Also, I'm currently learning full-stack JavaScript at  **[Treehouse](https://www.teamtreehouse.com)**.
+<!-- Also, I'm currently learning full-stack JavaScript at  **[Treehouse](https://www.teamtreehouse.com)**. -->
 
 
 ### ⚒&nbsp;&nbsp;&nbsp;My Development Toolbelt
@@ -17,10 +17,9 @@ Also, I'm currently learning full-stack JavaScript at  **[Treehouse](https://www
 
 More about me:
 
-- 🔭 I’m currently working on e-Commerce Site for Nelta's client
-- 🌱 I’m currently learning Full-Stack JavaScript
-- 👯 I’m looking to collaborate on UI Projects
-- 🤔 I’m looking for help with JavaScript Databases
+- 🔭 I’m currently working on Brand New Redesigned Site for Nelta
+- 👯 I’m looking to collaborate on Web Development & Web Design Projects
+- 🤔 I’m looking for help with Storyblok
 - 💬 Ask me about Web Design
 - 📫 How to reach me: [Linkedin Profile](https://linkedin.com/in/haziraj)
 - 😄 Pronouns: R-gz-on
