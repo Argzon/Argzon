@@ -19,7 +19,6 @@ More about me:
 
 - 🔭 I’m currently working on Brand New Redesigned Site for Nelta
 - 👯 I’m looking to collaborate on Web Development & Web Design Projects
-- 🤔 I’m looking for help with Storyblok
 - 💬 Ask me about Web Design
 - 📫 How to reach me: [Linkedin Profile](https://linkedin.com/in/haziraj)
 - 😄 Pronouns: R-gz-on
