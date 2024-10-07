@@ -15,7 +15,7 @@ Inspired by web technologies, **I am always creating new**  [web designs](https:
 
 More about me:
 
-- 🔭 I’m currently working on Brand New Redesigned Site for Nelta
+- 🔭 I’m currently working on my portfolio
 - 👯 I’m looking to collaborate on Web Development & Web Design Projects
 - 💬 Ask me about Web Design
 - 📫 How to reach me: [Linkedin Profile](https://linkedin.com/in/haziraj)
