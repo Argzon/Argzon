@@ -3,9 +3,7 @@
 
 I'm **Argzon Haziraj**, a Front-End Engineer and UI Designer who lives in Peje, Kosovo.
 
-Inspired by web technologies, **I am always creating new**  [web designs](https://behance.net/haziraj), [envato projects](https://codecanyon.net/user/dotifyio), [fun projects](https://github.com/argzon), and [connections](https://linkedin.com/in/haziraj).
-
-Currently, I'm working at **[Nelta](https://nelta.de/)**. 
+Inspired by web technologies, **I am always creating new**  [web designs](https://behance.net/haziraj), [fun projects](https://github.com/argzon), and [connections](https://linkedin.com/in/haziraj).
 
 <!-- Also, I'm currently learning full-stack JavaScript at  **[Treehouse](https://www.teamtreehouse.com)**. -->
 
